@@ -2,3 +2,8 @@ AUB
 AIML
 CSE
 AMITY
+
+aiml2
+cse2
+pharmacy
+
