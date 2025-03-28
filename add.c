@@ -5,4 +5,8 @@ void main()
 	printf("sub is%d",a-b);
 	printf("mult%d",a*b);
 	printf("div%d",a/b);
+
+	printf("content in test branch update");
+	print(:AUB);
+
 }
