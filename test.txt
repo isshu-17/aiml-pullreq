@@ -4,6 +4,10 @@ CSE
 AMITY
 
 aiml2
+
+b tech 
+ece
+
 cse2
 pharmacy
 
